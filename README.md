@@ -1,4 +1,4 @@
-## welcome to my website
+## Welcome to my website
 
 
 
@@ -9,15 +9,14 @@
 
 **Age** : 22.
 
-**Student at faculty of engineering Cairo university.**
+**University** : Cairo.
+
+**Faculty** : Engineering.
 
 **Department** : System and Biomedical engineering.
 
 **Academic year** : 3rd year
 
-[CV](http://github.com)
+**Email** : ahmed12365488@gmail.com
 
-[<img src="faf.png" width="60" height="60" />](https://www.facebook.com/ahmed.hasen.127)
-[<img src="faf.png" width="60" height="60" />](https://www.facebook.com/ahmed.hasen.127)
-[<img src="faf.png" width="60" height="60" />](https://www.facebook.com/ahmed.hasen.127)
-[<img src="faf.png" width="60" height="60" />](https://www.facebook.com/ahmed.hasen.127)  
+[<img src="faf.png" width="60" height="60" />](https://www.facebook.com/ahmed.hasen.127)    [<img src="linkedin.png" width="60" height="60" />](https://www.linkedin.com/in/ahmed-adel-690816155/)    [<img src="twitter.png" width="60" height="60" />](https://twitter.com/DoLa00347244)  [<img src="github.png" width="60" height="60" />](https://github.com/AAA2021)
