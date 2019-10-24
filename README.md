@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## welcome to my website
 
-You can use the [editor on GitHub](https://github.com/AAA2021/Ahmed-Adel/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<img src="dola.jpg" width="250" height="250" />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## bio
+**Name** : Ahmed Adel Ahmed.
 
-```markdown
-Syntax highlighted code block
+**Age** : 22.
 
-# Header 1
-## Header 2
-### Header 3
+**Student at faculty of engineering Cairo university.**
 
-- Bulleted
-- List
+**Department** : System and Biomedical engineering.
 
-1. Numbered
-2. List
+**Academic year** : 3rd year
 
-**Bold** and _Italic_ and `Code` text
+[CV](http://github.com)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AAA2021/Ahmed-Adel/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[<img src="faf.png" width="60" height="60" />](https://www.facebook.com/ahmed.hasen.127)
+[<img src="faf.png" width="60" height="60" />](https://www.facebook.com/ahmed.hasen.127)
+[<img src="faf.png" width="60" height="60" />](https://www.facebook.com/ahmed.hasen.127)
+[<img src="faf.png" width="60" height="60" />](https://www.facebook.com/ahmed.hasen.127)  
